@@ -1,10 +1,14 @@
 Lorem Ipsum is the devil. It messes with us who are students of Latin; Cicero is hard enough without people throwing randomized Cicero in our faces. It's better to use something that isn't part of a linguistic insurgency.
 
-> If you really don't want any reasonably modern form of English at all, there's also a Beowulf mode.
+This project gives you random text from Shakespeare's Hamlet.
 
-Even then, you don't just need sample text, you need some type of rich sample data. This project gives you both string and object generators.
+It also gives you data from Beowulf. It turns out that this is actually better. I'm tempted to completely rename this project. Beowulf's Old English gives text that one might think of as complete sentences, whereas Hamlet is obviously just random words. Also, Beowulf has non-alphanumeric characters to help with Unicode testing.
 
-Here's a string sample:
+So, Beowulf is better than ipsum lorem.
+
+Recommendation: Hamlet for titles and for easily searchable data. Beowulf for content.
+
+Hamlet sample:
 
 > returneth quietus borrower waxes duppd exclaim giving like drinks swaddlingclouts object lookd lenten therein damon host danish qualifies perchance sister dogs pictures patient mattering graves breathes six endure appeard longermarried infusion lover count digged abridgement dread profoundest betoken woodcocks pressures argal till translate weaker perfections hearers comest pitied redeliver insolence
 
@@ -12,7 +16,9 @@ Beowulf sample:
 
 > þanc sædne forbærst ageaf ecþeowes orleghwila wynleasne geswearc gesægde blæd rasod eorlgewædum offan scel hatost weorode ealgearo cyninge gelyfan leofum beahhordes dogora heofenum ronde geatas læfde galdre sægon leafum geræhte sæmannum iofore sesse heaþoswate eorlgestreona gylden begylpan gefered hrinde geregnad monðwærust modes scoc wilfingum ðyssum widfloga folccyning leton dranc lifige wearp unrim beaduwe bædde feþe geþencean soðlice dryhtmaðma greote gehealdan sorgian astah wyrda wrecca ecgðiowes ansyne bædon morgenlongne sealdest swæslice hringdena ryht socne siðes nænigra wongstede usic 
 
-Here's a MongoDB (similar to JSON) sample:
+You can also use this project to generate rich objects. This is helpful for generating mass data for things like MongoDB.
+
+MongoDB (similar to JSON) Hamlet sample:
 
     {
         "_id" : "9780606620376",
