@@ -2,7 +2,7 @@ Lorem Ipsum is the devil. It messes with us who are students of Latin; Cicero is
 
 This project gives you random text from Shakespeare's Hamlet.
 
-It also gives you data from Beowulf. It turns out that this is actually better. I'm tempted to completely rename this project. Beowulf's Old English gives text that one might think of as complete sentences, whereas Hamlet is obviously just random words. Also, Beowulf has non-alphanumeric characters to help with Unicode testing.
+It also gives you data from **Beowulf**. It turns out that this is actually *better*. I'm tempted to completely rename this project. Beowulf's Old English gives text that one might think of as complete sentences, whereas Hamlet is obviously just random words. Also, Beowulf has non-alphanumeric characters to help with Unicode testing.
 
 So, Beowulf is better than ipsum lorem.
 
